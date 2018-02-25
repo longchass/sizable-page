@@ -1,0 +1,88 @@
+.name {
+  margin-left: auto;
+  float: right;
+  font-family: "Merriweather", serif;
+}
+
+p {
+  font-size: 60px;
+}
+
+.logo {
+  float: left;
+  margin-top: 20px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+
+.yellow {
+  background-color: #ff0;
+}
+
+.red {
+  background-color: #f00;
+}
+
+.blue {
+  background-color: #31f;
+}
+
+.main-big-img {
+  padding-top: 20px;
+}
+
+.flying-goose {
+  padding-bottom: 20px;
+}
+
+@media (max-width: 900px) {
+  .footer {
+    left: 153px;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    left: 0px;
+  }
+}
+
+.fish-bowl-link {
+  text-decoration: none;
+}
+
+s.blue-flower-link {
+  text-decoration: none;
+}
+
+.head-top {
+  border-bottom: 5px solid black;
+  padding-bottom: 10px;
+}
+
+.project1 {
+  clear: both;
+}
+
+.project2 {
+  margin-top: 20px;
+}
+
+.images {
+  float: left;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.footer {
+  display: flex;
+}

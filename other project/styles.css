@@ -1,0 +1,8 @@
+/* add your CSS here */
+h3{margin: 10px; margin-left: 30px;}
+img{width: 300px; border: 1px solid black; margin: 10px; margin-left: 30px;}
+.lol{width: 370px;height: 500px; border: 1px solid black; box-shadow: 5px 5px 15px}
+ul{list-style: none;}
+span{font-weight: bold;}
+.general{border: 1px solid black; height: 230px; margin: 10px;}
+p{flex-wrap: wrap;}
